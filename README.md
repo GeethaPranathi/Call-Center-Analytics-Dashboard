@@ -1,4 +1,3 @@
-# Call-Center-Analytics-Dashboard
 # Call Center Performance Dashboard (Excel)
 
 ## 📌 Project Summary
